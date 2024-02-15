@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryansinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansinhaa" /> </p>
 
+- 🔭 I’m currently working on **Flutter Development**
+
+- 🌱 I’m currently learning **Computer Vision  and TensorFlow**
+
 - 💬 Ask me about **Flutter, Arduino,Svelte,React, C/C++**
 
 - 📫 How to reach me **sinhaaaryankumar@outlook.com**
