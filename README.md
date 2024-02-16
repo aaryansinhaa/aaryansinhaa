@@ -1,7 +1,7 @@
 <p align="center">
  <img width="800px" height="600px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="center" alt="My Profile Picture" /></p>
 <h1 align="center">Hi 👋, I'm Aaryan Kumar Sinha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryansinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansinhaa" /> </p>
 
