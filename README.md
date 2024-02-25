@@ -4,7 +4,9 @@
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryansinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansinhaa" /> </p>
+
 - ❤️‍🔥 I'm aspiring to become a **Computer Researcher**
+
 - 🔭 I’m currently working on **Flutter Development**
 
 - 🌱 I’m currently learning **Computer Vision  and TensorFlow**
