@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Computer Vision  and TensorFlow**
 
-- 💬 Ask me about **Flutter, Arduino,Svelte,React, C/C++**
+- 💬 Ask me about **Flutter, Arduino, C/C++, CV**
 
 - 📫 How to reach me **sinhaaaryankumar@outlook.com**
 
