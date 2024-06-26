@@ -7,11 +7,11 @@
 
 - ❤️‍🔥 I'm aspiring to become a **Computer Researcher**
 
-- 🔭 I’m currently working on **Flutter Development**
+- 🔭 I’m currently working on **Scholr AI**
 
-- 🌱 I’m currently learning **Computer Vision  and TensorFlow**
+- 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **Flutter, Arduino, C/C++, CV**
+- 💬 Ask me about **Flutter, Docker, C/C++, API Development**
 
 - 📫 How to reach me **sinhaaaryankumar@outlook.com**
 
