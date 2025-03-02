@@ -7,7 +7,7 @@
 
 - ❤️‍🔥 I'm aspiring to become a **Computer Researcher**
 
-- 🔭 I’m currently working on **Scholr AI**
+- 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **ML**
 
