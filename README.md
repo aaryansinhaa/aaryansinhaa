@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryansinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansinhaa" /> </p>
 
-- ❤️‍🔥 I'm aspiring to become a **Computer Researcher**
+- ❤️‍🔥 I'm aspiring to become a **Backend Engineer**
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **REST APIs, High Performance and Scalable Backend System**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Java, Spring MVC**
 
-- 💬 Ask me about **Flutter, Docker, C/C++, API Development**
+- 💬 Ask me about **C/C++, API Development**
 
 - 📫 How to reach me **sinhaaaryankumar@outlook.com**
 
