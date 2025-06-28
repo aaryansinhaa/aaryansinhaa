@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Guide to Making RESTful APIs in Spingboot](https://dev.to/aaryansinhaa/guide-making-restful-apis-in-springboot-3elg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
