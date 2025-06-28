@@ -11,9 +11,8 @@
 
 - 🌱 I’m currently learning **Java, Spring MVC**
 
-- 💬 Ask me about **C/C++, API Development**
 
-- 📫 How to reach me **sinhaaaryankumar@outlook.com**
+- 📫 How to reach me **aaryansinhaiiit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
