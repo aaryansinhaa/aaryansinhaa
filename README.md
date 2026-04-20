@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryansinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansinhaa" /> </p>
 
-- 🔭 I’m currently working on [Miyuki - An interactive notebook for learners](https://github.com/aaryansinhaa/miyuki)
+- 🔭 I’m currently working on [PRISM - An optimized runtime and server to share your predictive models with the world!](https://github.com/aaryansinhaa/prism)
 
-- 🌱 I’m currently learning **gRPC, RabbitMQ and Kafka**
+- 🌱 I’m currently learning **Machine Learning, Kubernetes**
 
-- 💬 Ask me about **RESTful APIs, AI Integrations, Yolo Models**
+- 💬 Ask me about **RESTful APIs, AI Integrations**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
