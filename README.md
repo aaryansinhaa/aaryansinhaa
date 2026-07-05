@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryansinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansinhaa" /> </p>
 
-- 🔭 I’m currently working on [PRISM - An optimized runtime and server to share your predictive models with the world!](https://github.com/aaryansinhaa/prism)
+- 🔭 I’m currently working on [reshell - build your working environment in seconds!](https://github.com/aaryansinhaa/reshell)
 
 - 🌱 I’m currently learning **Machine Learning, Kubernetes**
 
